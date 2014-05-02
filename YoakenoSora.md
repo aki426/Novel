@@ -1,7 +1,7 @@
 # ストライクウィッチーズSS「夜明けの空」
 著：金田アキヒロ
 
-![タイトル](https://github.com/aki426/Novel/blob/master/YaokenoSora_title.jpg)
+![タイトル](https://raw.githubusercontent.com/aki426/Novel/master/YaokenoSora_title.jpg)
 
 ## プロローグ
 
@@ -59,7 +59,7 @@
 　「いやぁ、今日みたいにさー、なぁんにも無い日は楽しく飛べるよナー、と思ってさ」  
 　「そうね。ふふっ」  
 
-![挿絵2](https://github.com/aki426/Novel/blob/master/YaokenoSora_02.jpg)
+![挿絵1](https://raw.githubusercontent.com/aki426/Novel/master/YaokenoSora_01.jpg)
 
 　「えー、なんだよソレ」  
 　あ、サーニャが笑った。  
@@ -67,7 +67,7 @@
 　「あー、うん、たしかに。でもほら、ヒマ……って言うか、考える余裕があると、こうやって飛んでるときはなんかいろいろ考えちゃうだろ？」  
 　「そうね。何もない夜には。……一人だと特にそうね」  
 　しまった、墓穴掘った……。  
-　エイラの顔から表情が、一瞬、スっと抜けるのが見えた。  
+　サーニャの顔から表情が、一瞬、スっと抜けるのが見えた。  
 　「ああー、いや、そういう意味で言ったわけじゃないんだァー」  
 　うあーせっかくサーニャが笑ったのにぃいいい。私のバカー！  
 　「エ、エイラ？　どうしたの急に頭を抱えて……」  
@@ -173,7 +173,7 @@
 　「よーし、じゃあこのままいくぞー。ついてきてくれよ、サーニャ」  
 　「わかったわ、エイラ」  
 
-![挿絵1](https://github.com/aki426/Novel/blob/master/YaokenoSora_01.jpg)
+![挿絵2](https://raw.githubusercontent.com/aki426/Novel/master/YaokenoSora_02.jpg)
 
 　速度を上げたために風圧と風切り音が強くなる。インカムから聞こえるサーニャの声は、もう直接には聞こえない。  
 　エイラの後ろ姿を見る。長い髪と尻尾と、戦闘服のすそが風にあおられてはためいている。  
