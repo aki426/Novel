@@ -5,4 +5,4 @@
 
 @‚ ‚½‚µ‚Íƒ‰ƒ“BŒ¢‚Ìƒ‰ƒ“B
 
-![ƒ‰ƒ“]()
+![ƒ‰ƒ“](https://raw.githubusercontent.com/aki426/Novel/master/run01.gif)
